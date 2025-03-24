@@ -1,0 +1,2 @@
+Warrning: line 5 of numbers.txt - foo is not a number
+Warrning: line 9 of numbers.txt - bar is not a number

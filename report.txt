@@ -1,0 +1,7 @@
+Report:
+-------
+Count: 10
+Sum: 360
+Average: 45
+Minimum: 10
+Maximum: 80
